@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.main_img {
+  background-image: url("../img/care.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  width: 100%;
+}
+.cta-link span {
+    line-height: 1.;
+}
